@@ -1,4 +1,4 @@
-# Time series analysis and forecasting of coronavirus disease in US using LSTM and SARIMA model.
+# Time series analysis and forecasting of COVID-19 in US using LSTM and SARIMA model.
 
 Long Short-Term Memory (LSTM) networks are a type of recurrent neural network(RNN) capable of learning order dependence in sequence prediction problems.
 
